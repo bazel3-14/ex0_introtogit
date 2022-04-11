@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: black
+Favorite food: meat
+Favorite musician/band: ac/dc 
+Favorite movie: interstellar
+Requested grade in the course: 95 
